@@ -259,8 +259,8 @@ The complete, commented key list is in [`resources/themes/light.properties`](res
 **Prerequisite:** JDK 17+ with `javac` and `jar` on the `PATH` (see [Prerequisites](#prerequisites)).
 
 ```
-git clone <your-repo-url>
-cd TintShadePaletteGenerator
+git clone <your-repo-url>https://github.com/SahasraraChakra/JColorUtils-Tint-And-Shade-Generator.git
+cd JColorUtils-Tint-And-Shade-Generator
 ```
 
 **Windows**
@@ -312,4 +312,35 @@ build.sh, build.bat build scripts
 
 ---
 
-© JSoft Bharath. All rights reserved.
+
+## Copyright
+
+© JSoft Bharath, Kerala, India & Jeevan Kumar Vishwakarman. All rights reserved.
+
+**JScreenScriber Android - Screenplay Editor for Android Developed By : JSoft Bharath, Kerala, India. / Jeevan Kumar Vishwakarman. All Rights Reserved To : JSoft Bharath, Kerala, India. / Jeevan Kumar Vishwakarman.**
+
+## License
+
+**Attribution-Required, No-Modification, No-Resale License**
+
+Copyright © JSoft Bharath, Kerala, India & Jeevan Kumar Vishwakarman ("the Authors").
+
+Permission is hereby granted, free of charge, to any person or organization obtaining a copy of this software and its source code ("the Software") to **use** the Software, for personal or commercial purposes, subject to the following conditions:
+
+1. **Attribution is compulsory.** Any use of the Software, in any application, product, service, documentation or website, must display the following attribution text, in bold, in a place reasonably visible to users (for example an About dialog, credits screen, README or product page):
+
+   **JScreenScriber Android - Screenplay Editor for Android Developed By : JSoft Bharath, Kerala, India. / Jeevan Kumar Vishwakarman. All Rights Reserved To : JSoft Bharath, Kerala, India. / Jeevan Kumar Vishwakarman.**
+
+2. **No modification.** You may not change, modify, adapt, translate, decompile, reverse-engineer or create derivative works of the Software's code or binaries. The Software must be used exactly as distributed by the Authors.
+
+3. **No selling or charging for the Software.** You may not sell, rent, sublicense, or charge any fee for the Software or its code, in whole or in part, or bundle it in a way that charges for the Software itself. You **may** charge for your own applications, products and services that use the Software, provided the Software itself is not what is being sold and condition 1 is met.
+
+4. **Redistribution.** You may redistribute the unmodified Software free of charge only if this license, the copyright notice and the attribution text are kept intact.
+
+5. **Ownership.** The Software is licensed, not sold. All rights not expressly granted are reserved by the Authors.
+
+6. **Termination.** Any breach of these terms automatically terminates your rights under this license.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+For permission requests beyond these terms, contact the Authors via the repository's Issues page.
