@@ -1,0 +1,6 @@
+dist/
+build/
+*.class
+out/
+# theme.properties next to a locally built jar is a personal override
+dist/theme.properties
